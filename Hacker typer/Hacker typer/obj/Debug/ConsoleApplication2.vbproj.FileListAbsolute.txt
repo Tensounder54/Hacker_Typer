@@ -1,0 +1,10 @@
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.Resources.resources
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbproj.GenerateResource.Cache
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.xml
+C:\Users\T54\AppData\Local\Temporary Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,10 @@
+B:\Documents\Hacker typer\Hacker typer\bin\Debug\Hacker typer.exe.config
+B:\Documents\Hacker typer\Hacker typer\bin\Debug\Hacker typer.exe
+B:\Documents\Hacker typer\Hacker typer\bin\Debug\Hacker typer.pdb
+B:\Documents\Hacker typer\Hacker typer\bin\Debug\Hacker typer.xml
+B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.vbprojResolveAssemblyReference.cache
+B:\Documents\Hacker typer\Hacker typer\obj\Debug\ConsoleApplication2.Resources.resources
+B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.vbproj.GenerateResource.Cache
+B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.exe
+B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.xml
+B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.pdb
