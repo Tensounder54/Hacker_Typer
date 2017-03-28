@@ -8,3 +8,19 @@ B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.vbproj.GenerateRes
 B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.exe
 B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.xml
 B:\Documents\Hacker typer\Hacker typer\obj\Debug\Hacker typer.pdb
+N:\My Documents\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\bin\Debug\Hacker typer.exe.config
+N:\My Documents\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.xml
+N:\My Documents\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.pdb
+N:\My Documents\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.vbprojResolveAssemblyReference.cache
+N:\My Documents\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\ConsoleApplication2.Resources.resources
+N:\My Documents\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.vbproj.GenerateResource.Cache
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\bin\Debug\Hacker typer.exe.config
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.xml
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.pdb
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\bin\Debug\Hacker typer.exe
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\bin\Debug\Hacker typer.pdb
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\bin\Debug\Hacker typer.xml
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.vbprojResolveAssemblyReference.cache
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\ConsoleApplication2.Resources.resources
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.vbproj.GenerateResource.Cache
+E:\Hacker_Typer-master\Hacker_Typer-master\Hacker typer\Hacker typer\obj\Debug\Hacker typer.exe

@@ -19,7 +19,7 @@ Module Hacker_Typer
 
         Try
             ' Open the file using a stream reader.
-            Using sr As New StreamReader("B:\Documents\Hacker typer\Hacker typer\hacker_typer_txt.txt")
+            Using sr As New StringReader(My.Resources.hacker_typer_txt)
                 Dim line As String
                 ' Read the stream to a string and write the string to the console.
                 line = sr.ReadToEnd()
